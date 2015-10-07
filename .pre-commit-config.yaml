@@ -2,4 +2,3 @@
     sha: f82fb149af2c1b552b50e3e38e38ed3a44d4cda1
     hooks:
     -   id: trailing-whitespace
-    -   id: check-yaml
