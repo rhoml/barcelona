@@ -17,6 +17,8 @@ First thing you need to know is that Barcelona is the city of `Antoni Gaudí`, k
 
 ##### Beer/Cider Bars
 
+ * [Ale & Hop](http://www.aleandhop.com/): Located in the `Basses de Sant Pere` this is a vegetarian restaurant with 10 taps and countless number of bottle beers. They also make brunch.
+
 #### Neighborhoods
 
 #### Food
