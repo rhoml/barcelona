@@ -25,6 +25,8 @@ First thing you need to know is that Barcelona is the city of `Antoni Gaudí`, k
 
 ##### Breakfast
 
+ * [Repúblic Cafè](http://www.tripadvisor.com/Restaurant_Review-g187497-d7805969-Reviews-Republic_Cafe-Barcelona_Catalonia.html): Great place in the `Rambla de Poblenou` to have Breakfast or early lunch. The have the best bagels in town.
+
 ##### Tapas restaurants
 
 ##### Dinner
