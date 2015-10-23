@@ -25,9 +25,11 @@ First thing you need to know is that Barcelona is the city of `Antoni Gaudí`, k
 
 ##### Breakfast
 
- * [Repúblic Cafè](http://www.tripadvisor.com/Restaurant_Review-g187497-d7805969-Reviews-Republic_Cafe-Barcelona_Catalonia.html): Great place in the `Rambla de Poblenou` to have Breakfast or early lunch. The have the best bagels in town.
+ * [Repúblic Cafè](http://www.tripadvisor.com/Restaurant_Review-g187497-d7805969-Reviews-Republic_Cafe-Barcelona_Catalonia.html): Great place in the `Rambla de Poblenou` to have Breakfast or early lunch. They have the best bagels in town.
 
 ##### Tapas restaurants
+
+ * [El Paso](https://foursquare.com/v/caf%C3%A8-bar-el-paso/4d335445329e5481a0afb81d?fbLoginFailed=true): Nice `Tapas` restaurant in Poblenou, great `bravas` and `meatballs`, very friendly and familiar environment, worth to pay a visit.
 
 ##### Dinner
 
