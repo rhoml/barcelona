@@ -8,8 +8,8 @@ First thing you need to know is that Barcelona is the city of `Antoni Gaudí`, k
 
  * If you arrive to Barcelona airport `El Prat` there are many ways to get yourself into the city
    - Train: The journey will take around 50 mins to get to the city for 2.5 euros per person.
-   - [Aerobus](http://www.aerobusbcn.com/): The journy takes around 35 minutes and will cost 5.90 euros per person. (If you buy the round trip you might get a 1 euro discount)
-   - Taxi: The joruney from El Prat to Plaza Catalunya will take around 26 minutes and will cost 25 euros.
+   - [Aerobus](http://www.aerobusbcn.com/): The journey takes around 35 minutes and will cost 5.90 euros per person. (If you buy the round trip you might get a 1 euro discount)
+   - Taxi: The journey from El Prat to Plaza Catalunya will take around 26 minutes and will cost 25 euros.
 
 #### Meetups
 
